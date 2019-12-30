@@ -1,6 +1,7 @@
 body {
-    background-image: url('img/1.jpg') no-repeat;
-    opacity: 99%;
+    background-image: url('img/80.jpg');
+    min-width: 100%; 
+    height: auto;
 
 }
 
